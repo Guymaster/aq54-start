@@ -1,0 +1,6 @@
+[submodule "aq54-backend"]
+	path = aq54-backend
+	url = https://github.com/Guymaster/aq54-backend.git
+[submodule "aq54"]
+	path = aq54
+	url = https://github.com/Guymaster/aq54.git
