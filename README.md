@@ -16,7 +16,7 @@ Tech Stack :
 Commencez par cloner ce dépot en ouvrant un terminal pour y entrer la ligne suivante :
 
 ```
-git clone https://github.com/Guymaster/aq54.git
+git clone https://github.com/Guymaster/aq54-start.git
 ```
 
 Ouvrez un terminal dans le nouveau dossier **aq54-star**t et entrez :
