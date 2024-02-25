@@ -22,11 +22,11 @@ git clone https://github.com/Guymaster/aq54-start.git
 Ouvrez un terminal dans le nouveau dossier **aq54-star**t et entrez :
 
 ```
-git submodule update --remote aq54
+git submodule update --init --remote aq54
 ```
 
 ```
-git submodule update --remote aq54-backend
+git submodule update --init --remote aq54-backend
 ```
 
 Dans le dossier **aq54-start**, créez un fichier environnement nommé `.env`. Vous devez y renseigner les variables d'environnement de la manière suivante :
